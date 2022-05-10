@@ -43,10 +43,14 @@ section>div>.para3{
     color: #EC4067;
     font-size: large;
 }
+section>.container3{
+    margin-left: 50px;
+}
 
 section>div>.but1{
     background-color: #EC4067;
     border-radius: 5px;
     border: 1px solid #EC4067;
+    margin: 20px;
     
 }
