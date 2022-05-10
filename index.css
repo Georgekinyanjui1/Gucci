@@ -24,7 +24,10 @@ section>nav>ul>li>button{
 section>nav>.para1{
     margin: 30px;
     color: #EC4067;
+    font-weight: bold;
 }
 
 section>nav>p>span{
+    color: black;
+}
     
