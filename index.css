@@ -31,6 +31,10 @@ section>nav>p>span{
     color: black;
 }
 
+section>.container2{
+    margin-left: 50px;
+}
+
 section>div>.para2{
     font-size: small;
 }
