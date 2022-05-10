@@ -20,4 +20,11 @@ section>nav>ul>li>button{
     color: white;
     border-radius: 6px;
 }
+
+section>nav>.para1{
+    margin: 30px;
+    color: #EC4067;
+}
+
+section>nav>p>span{
     
