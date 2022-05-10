@@ -1,39 +1,19 @@
-body {
-    margin: 0;
-    font-family:nunito, Helvetica, sans-serif;
-  }
-h1 {
-    text-align: center;
-    color: red;
-    font-size: medium;
-    font-weight: 700;
-    font-style: normal;
-    scroll-margin-top: 5px;
+*{
+    margin: 0%;
+    padding: 0%;
 }
-h2 {
-    color: red;
-    font-size: medium;
-    font-weight: 400;
-    font-style: italic;
-    margin-left: 0;
-    padding: 0;
-    text-align: left;
-    
-}
-img {
-    text-align: right;
-}
-h3 {
-    font-size: x-small;
-}
-div.tapnav {
+
+section>nav>ul{
+    list-style: none;
+    display: flex;
     float: right;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+    margin: 20px;
 }
-a {
-    color: black;
+section>nav>ul>li>button{
+    background-color:#EC4067;
+    padding: 2 5 2 5;
+    color: white;
+    border-radius: 6px;
+
 }
+    
