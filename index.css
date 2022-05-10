@@ -9,11 +9,15 @@ section>nav>ul{
     float: right;
     margin: 20px;
 }
+
+section>nav>ul>li{
+    margin-right: 20px;
+    font-size: small;
+}
 section>nav>ul>li>button{
     background-color:#EC4067;
     padding: 2 5 2 5;
     color: white;
     border-radius: 6px;
-
 }
     
