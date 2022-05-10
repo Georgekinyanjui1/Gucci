@@ -31,7 +31,7 @@ section>nav>p>span{
     color: black;
 }
 
-section>.container2{
+section>.container1{
     margin-left: 50px;
 }
 
@@ -43,14 +43,17 @@ section>div>.para3{
     color: #EC4067;
     font-size: large;
 }
-section>.container3{
+section>.container2{
     margin-left: 50px;
 }
 
-section>div>.but1{
+section>div>#inner>.but1{
     background-color: #EC4067;
     border-radius: 5px;
     border: 1px solid #EC4067;
     margin: 20px;
-    
+}
+
+.sect2{
+    display: flex;
 }
