@@ -30,4 +30,8 @@ section>nav>.para1{
 section>nav>p>span{
     color: black;
 }
+
+section>div>.para2{
+    font-size: small;
+}
     
