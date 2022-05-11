@@ -61,3 +61,11 @@ section>div>#inner>.but1{
     margin-top: 100px;
     align-items: center;
 }
+
+section>.container3{
+    margin:20 30 30 50
+}
+
+section>div>p>span{
+    font-size: x-small;
+}
