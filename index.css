@@ -37,11 +37,13 @@ section>.container1{
 
 section>div>.para2{
     font-size: small;
+    margin-bottom: 5px;
 }
 
 section>div>.para3{
     color: #EC4067;
     font-size: large;
+    margin-bottom: 10px;
 }
 section>.container2{
     margin-left: 50px;
@@ -56,4 +58,6 @@ section>div>#inner>.but1{
 
 .sect2{
     display: flex;
+    margin-top: 100px;
+    align-items: center;
 }
