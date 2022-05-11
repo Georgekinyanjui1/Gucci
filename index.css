@@ -91,3 +91,25 @@ section>div>.but3{
     display: flex;
     align-items: center;
 }
+
+section>div>.hd2{
+    font-size: medium;
+    margin-bottom: 20px;
+}
+
+section>div>.but4{
+    color: white;
+    background-color: #EC4067;
+    margin-top: 20px;
+    border: 1px solid #EC4067;
+    border-radius: 5px;
+}
+
+section>div>.image3{
+    margin-left: 30px;
+}
+.sect4{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
